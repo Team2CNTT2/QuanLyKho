@@ -1,0 +1,41 @@
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\bin\Debug\QuanLy.exe.config
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\bin\Debug\QuanLy.exe
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\bin\Debug\QuanLy.pdb
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.dll
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.SqlServer.dll
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.xml
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.SqlServer.xml
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\InventoryManage.csproj.GenerateResource.Cache
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.exe
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\InventoryManage.csprojResolveAssemblyReference.cache
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormSuppliers.resources
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormExportation.resources
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormHome.resources
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormImportations.resources
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormProducts.resources
+F:\ky 6\thuctapnhom\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormStorekeepers.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\bin\Debug\QuanLy.exe.config
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\bin\Debug\QuanLy.exe
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\bin\Debug\QuanLy.pdb
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.dll
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.SqlServer.dll
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.xml
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\bin\Debug\EntityFramework.SqlServer.xml
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\InventoryManage.csprojAssemblyReference.cache
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormSuppliers.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormExportation.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormHome.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormImportations.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormProducts.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormStorekeepers.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\InventoryManage.csproj.GenerateResource.cache
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\InventoryManage.csproj.CoreCompileInputs.cache
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\InventoryManage.csproj.CopyComplete
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.exe
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormLogIn.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormRegistration.resources
+F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormSupplier.resources
