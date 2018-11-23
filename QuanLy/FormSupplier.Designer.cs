@@ -60,13 +60,12 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.groupBox3.Controls.Add(this.toolStrip2);
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.groupBox3.Location = new System.Drawing.Point(16, 436);
-            this.groupBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox3.Location = new System.Drawing.Point(12, 44);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox3.Size = new System.Drawing.Size(747, 69);
+            this.groupBox3.Size = new System.Drawing.Size(560, 56);
             this.groupBox3.TabIndex = 5;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Function";
@@ -80,9 +79,9 @@
             this.BtSupDelete,
             this.BtSupBack,
             this.BtSupFresh});
-            this.toolStrip2.Location = new System.Drawing.Point(4, 23);
+            this.toolStrip2.Location = new System.Drawing.Point(3, 18);
             this.toolStrip2.Name = "toolStrip2";
-            this.toolStrip2.Size = new System.Drawing.Size(739, 27);
+            this.toolStrip2.Size = new System.Drawing.Size(554, 25);
             this.toolStrip2.TabIndex = 0;
             this.toolStrip2.Text = "toolStrip2";
             // 
@@ -92,7 +91,7 @@
             this.BtSupCreate.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtSupCreate.Margin = new System.Windows.Forms.Padding(20, 1, 0, 2);
             this.BtSupCreate.Name = "BtSupCreate";
-            this.BtSupCreate.Size = new System.Drawing.Size(64, 27);
+            this.BtSupCreate.Size = new System.Drawing.Size(50, 22);
             this.BtSupCreate.Text = "Create";
             this.BtSupCreate.Visible = false;
             this.BtSupCreate.Click += new System.EventHandler(this.BtSupCreate_Click);
@@ -103,7 +102,7 @@
             this.BtSupEdit.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtSupEdit.Margin = new System.Windows.Forms.Padding(50, 1, 0, 2);
             this.BtSupEdit.Name = "BtSupEdit";
-            this.BtSupEdit.Size = new System.Drawing.Size(43, 27);
+            this.BtSupEdit.Size = new System.Drawing.Size(34, 22);
             this.BtSupEdit.Text = "Edit";
             this.BtSupEdit.Visible = false;
             this.BtSupEdit.Click += new System.EventHandler(this.BtSupEdit_Click);
@@ -113,7 +112,7 @@
             this.BtSupDelete.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtSupDelete.Margin = new System.Windows.Forms.Padding(50, 1, 0, 2);
             this.BtSupDelete.Name = "BtSupDelete";
-            this.BtSupDelete.Size = new System.Drawing.Size(57, 24);
+            this.BtSupDelete.Size = new System.Drawing.Size(44, 22);
             this.BtSupDelete.Text = "Delete";
             this.BtSupDelete.Visible = false;
             this.BtSupDelete.Click += new System.EventHandler(this.BtSupDelete_Click);
@@ -123,7 +122,7 @@
             this.BtSupBack.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtSupBack.Margin = new System.Windows.Forms.Padding(50, 1, 0, 2);
             this.BtSupBack.Name = "BtSupBack";
-            this.BtSupBack.Size = new System.Drawing.Size(44, 24);
+            this.BtSupBack.Size = new System.Drawing.Size(36, 22);
             this.BtSupBack.Text = "Back";
             this.BtSupBack.Click += new System.EventHandler(this.BtSupBack_Click);
             // 
@@ -132,20 +131,19 @@
             this.BtSupFresh.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtSupFresh.Margin = new System.Windows.Forms.Padding(50, 1, 0, 2);
             this.BtSupFresh.Name = "BtSupFresh";
-            this.BtSupFresh.Size = new System.Drawing.Size(47, 24);
+            this.BtSupFresh.Size = new System.Drawing.Size(39, 22);
             this.BtSupFresh.Text = "Fresh";
             this.BtSupFresh.Visible = false;
             this.BtSupFresh.Click += new System.EventHandler(this.BtSupFresh_Click);
             // 
             // groupBox2
             // 
+            this.groupBox2.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.groupBox2.Controls.Add(this.DgvSup);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.groupBox2.Location = new System.Drawing.Point(16, 155);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Location = new System.Drawing.Point(12, 106);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox2.Size = new System.Drawing.Size(747, 273);
+            this.groupBox2.Size = new System.Drawing.Size(560, 167);
             this.groupBox2.TabIndex = 6;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "List of Suppliers";
@@ -153,15 +151,15 @@
             // DgvSup
             // 
             this.DgvSup.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DgvSup.Location = new System.Drawing.Point(45, 44);
-            this.DgvSup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DgvSup.Location = new System.Drawing.Point(17, 22);
             this.DgvSup.Name = "DgvSup";
-            this.DgvSup.Size = new System.Drawing.Size(679, 222);
+            this.DgvSup.Size = new System.Drawing.Size(509, 122);
             this.DgvSup.TabIndex = 0;
             this.DgvSup.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvSup_CellClick);
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.groupBox1.Controls.Add(this.TxtSupEmail);
             this.groupBox1.Controls.Add(this.TxtSupPhone);
             this.groupBox1.Controls.Add(this.TxtSupAddress);
@@ -171,90 +169,83 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.groupBox1.Location = new System.Drawing.Point(16, 33);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Location = new System.Drawing.Point(578, 46);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox1.Size = new System.Drawing.Size(747, 114);
+            this.groupBox1.Size = new System.Drawing.Size(410, 227);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Detail of Supplier";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // TxtSupEmail
             // 
             this.TxtSupEmail.Enabled = false;
-            this.TxtSupEmail.Location = new System.Drawing.Point(525, 71);
-            this.TxtSupEmail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TxtSupEmail.Location = new System.Drawing.Point(136, 149);
             this.TxtSupEmail.Name = "TxtSupEmail";
-            this.TxtSupEmail.Size = new System.Drawing.Size(179, 26);
+            this.TxtSupEmail.Size = new System.Drawing.Size(135, 22);
             this.TxtSupEmail.TabIndex = 12;
             // 
             // TxtSupPhone
             // 
             this.TxtSupPhone.Enabled = false;
-            this.TxtSupPhone.Location = new System.Drawing.Point(525, 33);
-            this.TxtSupPhone.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TxtSupPhone.Location = new System.Drawing.Point(136, 118);
             this.TxtSupPhone.Name = "TxtSupPhone";
-            this.TxtSupPhone.Size = new System.Drawing.Size(179, 26);
+            this.TxtSupPhone.Size = new System.Drawing.Size(135, 22);
             this.TxtSupPhone.TabIndex = 8;
             // 
             // TxtSupAddress
             // 
             this.TxtSupAddress.Enabled = false;
-            this.TxtSupAddress.Location = new System.Drawing.Point(111, 75);
-            this.TxtSupAddress.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TxtSupAddress.Location = new System.Drawing.Point(136, 79);
             this.TxtSupAddress.Name = "TxtSupAddress";
-            this.TxtSupAddress.Size = new System.Drawing.Size(163, 26);
+            this.TxtSupAddress.Size = new System.Drawing.Size(135, 22);
             this.TxtSupAddress.TabIndex = 7;
             // 
             // TxtSupName
             // 
             this.TxtSupName.Enabled = false;
-            this.TxtSupName.Location = new System.Drawing.Point(111, 33);
-            this.TxtSupName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TxtSupName.Location = new System.Drawing.Point(136, 45);
             this.TxtSupName.Name = "TxtSupName";
-            this.TxtSupName.Size = new System.Drawing.Size(163, 26);
+            this.TxtSupName.Size = new System.Drawing.Size(135, 22);
             this.TxtSupName.TabIndex = 6;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(29, 33);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(22, 48);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(53, 20);
+            this.label5.Size = new System.Drawing.Size(45, 16);
             this.label5.TabIndex = 4;
             this.label5.Text = "Name";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(373, 33);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(22, 118);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(120, 20);
+            this.label3.Size = new System.Drawing.Size(98, 16);
             this.label3.TabIndex = 2;
             this.label3.Text = "Phone Number";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(373, 75);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(22, 152);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(51, 20);
+            this.label2.Size = new System.Drawing.Size(42, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "Email";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(29, 75);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(22, 82);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(71, 20);
+            this.label1.Size = new System.Drawing.Size(59, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Address";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // toolStrip1
             // 
@@ -263,9 +254,9 @@
             this.TxtSupSearch,
             this.BtSupSearch});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
-            this.toolStrip1.Margin = new System.Windows.Forms.Padding(133, 0, 0, 0);
+            this.toolStrip1.Margin = new System.Windows.Forms.Padding(100, 0, 0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(776, 27);
+            this.toolStrip1.Size = new System.Drawing.Size(994, 25);
             this.toolStrip1.TabIndex = 3;
             this.toolStrip1.Text = "toolStrip1";
             this.toolStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.toolStrip1_ItemClicked);
@@ -276,7 +267,7 @@
             this.TxtSupSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.TxtSupSearch.Margin = new System.Windows.Forms.Padding(390, 0, 1, 0);
             this.TxtSupSearch.Name = "TxtSupSearch";
-            this.TxtSupSearch.Size = new System.Drawing.Size(133, 27);
+            this.TxtSupSearch.Size = new System.Drawing.Size(100, 25);
             this.TxtSupSearch.Text = "Fill information";
             this.TxtSupSearch.Click += new System.EventHandler(this.TxtSupSearch_Click);
             // 
@@ -285,7 +276,7 @@
             this.BtSupSearch.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtSupSearch.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtSupSearch.Name = "BtSupSearch";
-            this.BtSupSearch.Size = new System.Drawing.Size(57, 24);
+            this.BtSupSearch.Size = new System.Drawing.Size(46, 22);
             this.BtSupSearch.Text = "Search";
             this.BtSupSearch.Click += new System.EventHandler(this.BtSupSearch_Click);
             // 
@@ -296,24 +287,22 @@
             "ID of Supplier",
             "Name of Supplier",
             "Address"});
-            this.CmbSup.Location = new System.Drawing.Point(359, 0);
-            this.CmbSup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.CmbSup.Location = new System.Drawing.Point(269, 0);
             this.CmbSup.Name = "CmbSup";
-            this.CmbSup.Size = new System.Drawing.Size(160, 24);
+            this.CmbSup.Size = new System.Drawing.Size(121, 21);
             this.CmbSup.TabIndex = 7;
             // 
             // FormSupplier
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Highlight;
-            this.ClientSize = new System.Drawing.Size(776, 519);
+            this.ClientSize = new System.Drawing.Size(994, 296);
             this.Controls.Add(this.CmbSup);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.toolStrip1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormSupplier";
             this.Text = "Suppliers";
             this.Load += new System.EventHandler(this.FormSupplier_Load);

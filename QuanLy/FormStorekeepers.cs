@@ -214,5 +214,15 @@ namespace QuanLy
             }
             else return;
         }
+
+        private void TxtStoAddress_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtStoName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

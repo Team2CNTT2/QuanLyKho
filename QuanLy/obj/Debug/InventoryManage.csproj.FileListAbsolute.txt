@@ -39,3 +39,24 @@ F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
 F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormLogIn.resources
 F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormRegistration.resources
 F:\GitHub\SweepCake\VanAnh\QuanLy\QuanLy\obj\Debug\QuanLy.FormSupplier.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\bin\Debug\QuanLy.exe.config
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.exe
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.pdb
+C:\Users\duc khanh\Desktop\New folder\QuanLy\bin\Debug\QuanLy.exe
+C:\Users\duc khanh\Desktop\New folder\QuanLy\bin\Debug\QuanLy.pdb
+C:\Users\duc khanh\Desktop\New folder\QuanLy\bin\Debug\EntityFramework.dll
+C:\Users\duc khanh\Desktop\New folder\QuanLy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duc khanh\Desktop\New folder\QuanLy\bin\Debug\EntityFramework.xml
+C:\Users\duc khanh\Desktop\New folder\QuanLy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\InventoryManage.csprojResolveAssemblyReference.cache
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormSuppliers.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormExportation.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormHome.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormImportations.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormLogIn.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormProducts.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormRegistration.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormStorekeepers.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.FormSupplier.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+C:\Users\duc khanh\Desktop\New folder\QuanLy\obj\Debug\InventoryManage.csproj.GenerateResource.Cache
